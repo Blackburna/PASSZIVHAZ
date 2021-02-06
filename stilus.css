@@ -30,6 +30,8 @@ h2 {
 	padding: 0px 10px;
 	text-align: left;
 	background-color: #ffffff;
+	max-width: 100%;
+	height: auto;
 }
 
 #nev{
@@ -42,6 +44,8 @@ h2 {
 	float:right;
 	border:1px solid;
 	margin-left: 5px;
+	max-width: 100%;
+	height: auto;
 }
 
 a:link, a:active, a:visited, a:hover {
